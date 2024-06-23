@@ -7,8 +7,12 @@
 </h2>
 
 <div align="center">
+  <img src="HomePage.jpeg" alt="homepage" />
+</div>
+
+<div align="center">
   <a href="https://yt-devtube.vercel.app/">
-    <img alt="Mockup" src="https://avatars.githubusercontent.com/u/153381315?s=400&u=c23b1fb95565c8bf813d4628e9da8c21783aae71&v=4" />
+    <img alt="Mockup" src="https://avatars.githubusercontent.com/u/153381315?s=400&u=c23b1fb95565c8bf813d4628e9da8c21783aae71&v=4" width="200px" height="200" />
   </a>
 </div>
 
