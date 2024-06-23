@@ -78,7 +78,7 @@ const LeftNav = () => {
         })}
         <hr className="my-5 border-white/[0.2] md:border-black/[0.2] border dark:border dark:border-white/[0.2]" />
         <div className="text-white/[0.5] md:text-black/[0.7] dark:text-white/[0.5] text-[12px]">
-          Build by Somnath Dey | Codophile
+          Build by 💕
         </div>
       </div>
     </div>
