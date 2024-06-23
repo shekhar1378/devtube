@@ -79,7 +79,7 @@ const Header = () => {
             className="h-8 w-8 md:hidden rounded-full"
           />
 
-          <h1 className="text-[1.2rem] font-bold text-black dark:text-white">Devtube</h1>
+          <h1 className="text-[1.2rem] md:block hidden font-bold text-black dark:text-white">Devtube</h1>
         </Link>
       </div>
 
