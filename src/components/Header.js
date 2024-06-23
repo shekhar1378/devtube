@@ -132,7 +132,7 @@ const Header = () => {
         <div className="flex h-8 w-8 overflow-hidden rounded-full md:ml-4">
           <Link to={"https://github.com/shekhar1378"} target="_blank" rel="noopener noreferrer">
             <img
-              src="https://avatars.githubusercontent.com/u/108585532?v=4"
+              src="https://avatars.githubusercontent.com/u/153381315?v=4"
               alt="Codophile"
             />
           </Link>
