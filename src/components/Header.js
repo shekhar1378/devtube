@@ -71,7 +71,7 @@ const Header = () => {
           <img
             src={DevTube}
             alt="PlayTube"
-            className="h-8 hidden md:block"
+            className="hidden md:block"
           />
 
           <h1 className="text-[1.2rem] md:block hidden font-bold text-black dark:text-white">Devtube</h1>
