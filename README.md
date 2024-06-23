@@ -3,11 +3,11 @@
 <h1><strong>Devtube</strong> - watch share & enjoy</h1>
 
 <h2>
-  <a href="https://playtube-eight.vercel.app/">Live Project Link</a>
+  <a href="https://yt-devtube.vercel.app/" target="_blank" >Live Project Link</a>
 </h2>
 
 <div align="center">
-  <a href="https://playtube-eight.vercel.app/">
+  <a href="https://yt-devtube.vercel.app/">
     <img alt="Mockup" src="https://avatars.githubusercontent.com/u/153381315?s=400&u=c23b1fb95565c8bf813d4628e9da8c21783aae71&v=4" />
   </a>
 </div>
